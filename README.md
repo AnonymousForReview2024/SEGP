@@ -1,9 +1,9 @@
 
 # SEGP
-The official PyTorch implementation of the paper XXXXXXXXXXXXXXXXXX.
+The official PyTorch implementation of the paper SEGP.
 
 # Overview
-This repo contains the PyTorch implementation of SEGP, described in the paper XXXXXXXXXXXXXX.  
+This repo contains the PyTorch implementation of SEGP, described in the paper SEGP.  
 
 # Environment
 &bull; python >= 3.8.5<br>
