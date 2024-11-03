@@ -46,7 +46,7 @@ def main():
     parser.add_argument('--pretrain', type=str, default='openai', help="laion400m, openai")
     parser.add_argument('--data_path', type=str, default='./MVFA_data/data/')
     parser.add_argument('--save_model', type=int, default=0)
-    parser.add_argument('--save_path', type=str, default='./ckpt/test/')
+    parser.add_argument('--save_path', type=str, default='./ckpt/baseline/')
     parser.add_argument('--img_size', type=int, default=240)
     parser.add_argument("--epoch", type=int, default=50, help="epochs")
     parser.add_argument("--learning_rate", type=float, default=0.001, help="learning rate")
