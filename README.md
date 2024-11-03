@@ -33,7 +33,7 @@ Download and extract [datasets](https://github.com/MediaBrain-SJTU/MVFA-AD?tab=r
 # Test
 &bull; python test.py --obj $target-object --save_path $path-model
 
-# Perform experiments on cifar100 dataset
+# Experimental results
 | method | OCT| HIS| Chest| Brain| Brain_p| Liver| Liver_p| RESC| RESC_p 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- 
 | baseline | 99.57| 83.58| 82.46| 90.94| 96.89| 86.94| 99.57| 95.86| 99.16 
