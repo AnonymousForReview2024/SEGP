@@ -21,7 +21,7 @@ This repo contains the PyTorch implementation of SEGP, described in the paper XX
 &bull; cuml<br>
 
 
-# datasets
+# Datasets
 Download and extract [datasets](https://github.com/MediaBrain-SJTU/MVFA-AD?tab=readme-ov-file) into MVFA_data
 
 
