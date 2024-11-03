@@ -33,6 +33,14 @@ Download and extract [datasets](https://github.com/MediaBrain-SJTU/MVFA-AD?tab=r
 # Test
 &bull; python test.py --obj $target-object --save_path $path-model
 
+# Perform experiments on cifar100 dataset
+| method | OCT| HIS| Chest| Brain| Brain_p| Liver| Liver_p| RESC| RESC_p 
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- 
+| baseline | 99.57| 83.58| 82.46| 90.94| 96.89| 86.94| 99.57| 95.86| 99.16 
+| max5ensemble | 99.67| 83.84| 83.27| 91.74| 97.75| 87.13| 99.71| 96.29| 99.03 
+
+
+
 # Acknowledgement
 We borrow some codes from [OpenCLIP](https://github.com/mlfoundations/open_clip), and [MVFA](https://github.com/MediaBrain-SJTU/MVFA-AD?tab=readme-ov-file).
 
