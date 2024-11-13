@@ -40,30 +40,30 @@ Download and extract [datasets](https://github.com/MediaBrain-SJTU/MVFA-AD?tab=r
 | max5ensemble | 99.67| 83.84| 83.27| 91.74| 97.75| 87.13| 99.71| 96.29| 99.03 
 
 # baseline models
-&bull;OCT: link https://pan.baidu.com/s/1Fj3EUwDIYb8q1gbajIVXlQ download code: kg3r)
+&bull;OCT: link: https://pan.baidu.com/s/1Fj3EUwDIYb8q1gbajIVXlQ download code: kg3r
 
-&bull;HIS: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+&bull;HIS: link: https://pan.baidu.com/s/1lH30m2qCbOHn2hdvwLznLw download code: cx86
 
-&bull; Chest: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+&bull; Chest: link: https://pan.baidu.com/s/1W09KlCD2AMGHM4PY0LPETw download code: bd35
 
-&bull; Brain: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+&bull; Brain: link: https://pan.baidu.com/s/1vcO7vXCKmiYQYuMSmvAkAw download code: kate
 
-&bull; Liver: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+&bull; Liver: link: https://pan.baidu.com/s/1ctqk6s6TDxu3CenZEyn7sQ download code: mras
 
-&bull; RESC: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+&bull; RESC: link: https://pan.baidu.com/s/1XNMd5ho9xSs12jkfYHkrxw download code: 424r
 
 # max5ensemble models
-&bull; OCT: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+&bull; OCT: link: https://pan.baidu.com/s/1FlrmIn3P0eopJMe0sg_pVA download code: h4r8
 
-&bull; HIS: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+&bull; HIS: link: https://pan.baidu.com/s/1lCSIradrGNmovkIhMJVh6A download code: fgcs
 
-&bull; Chest: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+&bull; Chest: link: https://pan.baidu.com/s/1bfJnJE0ipR5p9AE0QHq7IA download code: w2fq
 
-&bull; Brain: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+&bull; Brain: link: https://pan.baidu.com/s/16f-J4LjIfXzQUSH1s533iA download code: 23v4
 
-&bull; Liver: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+&bull; Liver: link: https://pan.baidu.com/s/1qk8gOViBWRHqeoNJWJORGQ download code: 53ij
 
-&bull; RESC: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+&bull; RESC: link: https://pan.baidu.com/s/14j9m9_tmcTMpmejWUPALXg download code: cu27
 
 # Acknowledgement
 We borrow some codes from [OpenCLIP](https://github.com/mlfoundations/open_clip), and [MVFA](https://github.com/MediaBrain-SJTU/MVFA-AD?tab=readme-ov-file).
