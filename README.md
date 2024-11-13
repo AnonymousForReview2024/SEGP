@@ -39,7 +39,31 @@ Download and extract [datasets](https://github.com/MediaBrain-SJTU/MVFA-AD?tab=r
 | baseline | 99.57| 83.58| 82.46| 90.94| 96.89| 86.94| 99.57| 95.86| 99.16 
 | max5ensemble | 99.67| 83.84| 83.27| 91.74| 97.75| 87.13| 99.71| 96.29| 99.03 
 
+# baseline models
+&bull;OCT: link https://pan.baidu.com/s/1Fj3EUwDIYb8q1gbajIVXlQ download code: kg3r)
 
+&bull;HIS: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+
+&bull; Chest: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+
+&bull; Brain: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+
+&bull; Liver: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+
+&bull; RESC: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+
+# max5ensemble models
+&bull; OCT: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+
+&bull; HIS: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+
+&bull; Chest: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+
+&bull; Brain: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+
+&bull; Liver: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
+
+&bull; RESC: [baidu cloud](链接：https://pan.baidu.com/s/1wdEf6hvzn9_exC8nk8z7vg?pwd=wcqx  提取码：wcqx)
 
 # Acknowledgement
 We borrow some codes from [OpenCLIP](https://github.com/mlfoundations/open_clip), and [MVFA](https://github.com/MediaBrain-SJTU/MVFA-AD?tab=readme-ov-file).
