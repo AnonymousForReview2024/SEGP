@@ -38,7 +38,7 @@ def main():
     parser = argparse.ArgumentParser(description='Testing')
     parser.add_argument('--model_name', type=str, default='ViT-L-14-336', help="ViT-B-16-plus-240, ViT-L-14-336")
     parser.add_argument('--pretrain', type=str, default='openai', help="laion400m, openai")
-    parser.add_argument('--data_path', type=str, default='./medical_data/')
+    parser.add_argument('--data_path', type=str, default='./data/')
     parser.add_argument('--save_model', type=int, default=0)
     parser.add_argument('--save_path', type=str, default='./ckpt/max5ensemble')
     parser.add_argument('--img_size', type=int, default=240)
