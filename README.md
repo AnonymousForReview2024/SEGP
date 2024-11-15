@@ -22,7 +22,7 @@ This repo contains the PyTorch implementation of SEGP, described in the paper SE
 
 
 # Datasets
-Download and extract [datasets](https://github.com/MediaBrain-SJTU/MVFA-AD?tab=readme-ov-file) into MVFA_data
+Download and extract [datasets](https://github.com/MediaBrain-SJTU/MVFA-AD?tab=readme-ov-file) into medical_data
 
 
 # Train
