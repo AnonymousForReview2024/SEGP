@@ -6,14 +6,14 @@ The official PyTorch implementation of the paper SEGP.
 This repo contains the PyTorch implementation of SEGP, described in the paper SEGP.  
 
 # Environment
-&bull; python >= 3.8.5<br>
-&bull; pytorch >= 1.10.0<br>
-&bull; torchvision >= 0.11.1<br>
-&bull; numpy >= 1.19.2<br>
-&bull; scipy >= 1.5.2<br>
-&bull; kornia >= 0.6.1<br>
-&bull; pandas >= 1.1.3<br>
-&bull; opencv-python >= 4.5.4<br>
+&bull; python >= 3.10.12<br>
+&bull; pytorch >= 2.0.1<br>
+&bull; torchvision >= 0.15.2<br>
+&bull; numpy >= 1.24.1<br>
+&bull; scipy >= 1.13.1<br>
+&bull; kornia >= 0.7.2<br>
+&bull; pandas >= 2.2.2<br>
+&bull; opencv-python >= 4.9.0<br>
 &bull; pillow<br>
 &bull; tqdm<br>
 &bull; ftfy<br>
